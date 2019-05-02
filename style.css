@@ -1,0 +1,31 @@
+
+body{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 400px;
+    height: 350px; 
+    font-family: 'Rubik', sans-serif;
+    text-align: center
+}
+
+body{
+  
+}
+button {
+
+    color: black
+}
+.border{
+    border: none;
+    border-bottom: 1px solid #000000;
+    width: 400px;
+    height:400px
+ 
+    padding-top: 30px
+}
+
+.btn{
+
+    padding: 2%
+}
